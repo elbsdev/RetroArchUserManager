@@ -1,0 +1,21 @@
+{
+    "P1": {
+        "name": "1",
+        "password": "",
+        "username": ""
+    },
+    "P2": {
+        "name": "2",
+        "password": "",
+        "username": ""
+    },
+    "P3": {
+        "name": "3",
+        "password": "",
+        "username": ""
+    },
+    "active": "none",
+    "none": {
+        "name": "None"
+    }
+}
