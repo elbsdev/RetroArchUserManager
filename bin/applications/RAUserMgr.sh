@@ -1,6 +1,5 @@
 #!/bin/sh
 # HELP: Retroarch User Manager
-# ICON: dingux
 
 . /opt/muos/script/var/func.sh
 
